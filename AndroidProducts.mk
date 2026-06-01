@@ -1,10 +1,5 @@
-#
-# Copyright (C) 2025 The Android Open Source Project
-# SPDX-License-Identifier: Apache-2.0
-#
-
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_TECNO-KE5k.mk
+    $(LOCAL_DIR)/twrp_KE5k.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_TECNO-KE5k-eng
+    twrp_KE5k-eng
